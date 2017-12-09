@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510478939 source:c:\codeblocksprojects\qweasdzxc\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<locale.h>
+
